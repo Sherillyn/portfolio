@@ -4,7 +4,7 @@ Você já quis muito  fazer um  curso na Udemy mas infelizmente não domina o id
 
 
 1. Baixe a [extensão do Google Tradutor](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb/related) no seu navegador Google Chrome.
-2. Para que a extensão funcione, você precisa ter um cadastro na [Plataforma Udemy](https://www.udemy.com) e estar matriculada(o) em algum curso. Caso tenha dificuldade, dê uma olhadinha nesse conteúdo: [Como matricular em um curso na Udemy](https://support.udemy.com/hc/pt/sections/206458408-Adquirir-um-curso).
+2. Para ver a extensão funcionando neste site, você precisa ter um cadastro na [Plataforma Udemy](https://www.udemy.com) e estar matriculada(o) em algum curso. Caso tenha dificuldade, dê uma olhadinha nesse conteúdo: [Como matricular em um curso na Udemy](https://support.udemy.com/hc/pt/sections/206458408-Adquirir-um-curso).
 3. Após fazer o login, vá ao seu perfil, no canto direito da página, e clique em **meu aprendizado**
 4. Selecione o curso que você deseja traduzir.
 5. Ao entrar na aula, pressione a opção **transcrição**.
