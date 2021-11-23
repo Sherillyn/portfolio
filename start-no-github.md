@@ -16,7 +16,7 @@ Você pode aprender usando a própria versão web, por linha de comando, pelo gi
 
 1- [Github para escritores](https://www.udemy.com/course/git-and-github-for-writers/). Nesse curso, ele fala somente dos comandos mais utilizados e, por isso, você não precisaria mergulhar 100% na linguagem Git usada pela linha de comando no Github). Ele usa também um editor de textos chamado Notepad ++ (pelo o que percebo, aqui no Brasil não é o mais usado, mas é uma forma de utilizar). Não é gratuito. Mas é possível pegar promoções e sair por 27,90.
 
-Como é inglês e queremos democratizar o estudo de tecnologia no Brasil, eu fiz um passo a passo de como traduzir textos da udemy (depois que você aprender a usar o github, você quer usar ele pra tudo).
+Como é inglês e queremos democratizar o estudo de tecnologia no Brasil, eu fiz um passo a passo de [como traduzir textos da udemy](https://github.com/Sherillyn/portfolio/blob/main/traduzir-videos-udemy.md) (depois que você aprender a usar o github, você quer usar ele pra tudo).
 
 2- O melhor curso de github SEM PRECISAR DE LINHA DE COMANDO que eu encontrei nessa internet(0800): [Git e Github — professor Gustavo Guabana](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA&index=2).
 O professor Gustavo Guanabara é excelente em todos os cursos que faz. E esse, ensina formas de usar o Github via desktop (seja microsoft ou linux) e a usar via editor de texto Visual Studio Code (que eu vejo sendo um dos editores mais comuns). **Foi a forma mais fácil que encontrei.**
@@ -29,6 +29,6 @@ Quero concluir dizendo que eu realmente acho que ainda falta conteúdo para dire
 
 E se mesmo assim você achar que não sabe o suficiente, você não está sozinhe! Somente a prática vai te trazer a confiança tão sonhada (inclusive para escolher qual a sua forma preferida de usar esse monstro da cara bonita) . Vamos juntos nessa busca.
 
-![octcat](
+![octcat](https://github.com/Sherillyn/portfolio/blob/main/assets/octocat.PNG)
 
 
